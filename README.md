@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>📚 Graduated from both Wilfrid Laurier University in CS 💻 and University of Waterloo in Biomedical Science 🔬</p>
+<p>📚 Grad from both Wilfrid Laurier University in CS 💻 and University of Waterloo in Biomedical Science 🔬</p>
 <p></p>🌱 Currently learning about developing iot applications in embedded systems</p>
 <p>👩🏽‍💻 Advocate for women in tech, previously President of Laurier Women in Computer Science (LWiCS)</p>
 <p>📫 Find me on <a href="https://www.linkedin.com/in/tania-mehta-1a6187200/">linkedin</a></p>
