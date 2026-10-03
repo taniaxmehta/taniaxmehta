@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <p></p>Passionate about health 🤝🏽 software development</p>
 <p>👩🏽‍💻 Advocate for women in tech, previously President of Laurier Women in Computer Science (LWiCS)</p>
 <p>📫 Find me on <a href="https://www.linkedin.com/in/tania-mehta-1a6187200/">linkedin</a></p>
+<p>🌈</p>
 
